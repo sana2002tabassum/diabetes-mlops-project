@@ -5,3 +5,9 @@ stages:
     - data/diabetes.csv
     outs:
     - data/diabetes_processed.csv
+  train:
+    cmd: python train.py
+    deps:
+    - data/diabetes_processed.csv
+    outs:
+    - model/diabetes_model.pkl
