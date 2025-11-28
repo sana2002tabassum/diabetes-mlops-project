@@ -24,3 +24,14 @@ stages:
       hash: md5
       md5: 2242706150fb673729147238cccfbff4
       size: 1279
+  evaluate:
+    cmd: python evaluate.py
+    deps:
+    - path: data/diabetes_processed.csv
+      hash: md5
+      md5: f8183aa843a1f37607d7bc1131626f1b
+      size: 24059
+    - path: model/diabetes_model.pkl
+      hash: md5
+      md5: 2242706150fb673729147238cccfbff4
+      size: 1279

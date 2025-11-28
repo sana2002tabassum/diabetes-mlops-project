@@ -11,3 +11,8 @@ stages:
     - data/diabetes_processed.csv
     outs:
     - model/diabetes_model.pkl
+  evaluate:
+    cmd: python evaluate.py
+    deps:
+    - data/diabetes_processed.csv
+    - model/diabetes_model.pkl
