@@ -1,0 +1,7 @@
+stages:
+  preprocess:
+    cmd: python preprocess.py
+    deps:
+    - data/diabetes.csv
+    outs:
+    - data/diabetes_processed.csv
