@@ -1,24 +1,35 @@
-# evaluate.py
+import json
 import pandas as pd
-from sklearn.metrics import accuracy_score
 import joblib
+from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
 
-# Paths
-data_path = "data/diabetes_processed.csv"
-model_path = "model/diabetes_model.pkl"
+def evaluate():
+    # Load processed data
+    df = pd.read_csv("data/diabetes_processed.csv")
+    
+    X = df.drop("Outcome", axis=1)
+    y = df["Outcome"]
 
-# Load processed data
-df = pd.read_csv(data_path)
-X = df.drop("Outcome", axis=1)
-y = df["Outcome"]
+    # Load trained model
+    model = joblib.load("model/diabetes_model.pkl")
 
-# Load trained model
-model = joblib.load(model_path)
+    # Predictions
+    y_pred = model.predict(X)
 
-# Make predictions
-y_pred = model.predict(X)
+    # Calculate metrics
+    metrics = {
+        "accuracy": accuracy_score(y, y_pred),
+        "precision": precision_score(y, y_pred),
+        "recall": recall_score(y, y_pred),
+        "f1_score": f1_score(y, y_pred)
+    }
 
-# Calculate accuracy
-accuracy = accuracy_score(y, y_pred)
-print(f"Model Accuracy: {accuracy:.4f}")
+    # Save metrics to file
+    with open("metrics.json", "w") as f:
+        json.dump(metrics, f, indent=4)
 
+    print("Evaluation complete. Metrics saved to metrics.json")
+
+
+if __name__ == "__main__":
+    evaluate()
