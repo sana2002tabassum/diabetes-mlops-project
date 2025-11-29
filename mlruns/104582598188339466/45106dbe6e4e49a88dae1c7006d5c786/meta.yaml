@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Service_Marketing/Downloads/diabetes-mlops-project/mlruns/104582598188339466/45106dbe6e4e49a88dae1c7006d5c786/artifacts
+end_time: 1764424589777
+entry_point_name: ''
+experiment_id: '104582598188339466'
+lifecycle_stage: active
+run_id: 45106dbe6e4e49a88dae1c7006d5c786
+run_name: respected-hog-585
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764424589606
+status: 3
+tags: []
+user_id: Service_Marketing

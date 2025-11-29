@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Service_Marketing/Downloads/diabetes-mlops-project/mlruns/104582598188339466/ce7d084b806e45be9e1f8aa297df462b/artifacts
+end_time: 1764425294644
+entry_point_name: ''
+experiment_id: '104582598188339466'
+lifecycle_stage: active
+run_id: ce7d084b806e45be9e1f8aa297df462b
+run_name: grandiose-shad-932
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764425294441
+status: 3
+tags: []
+user_id: Service_Marketing

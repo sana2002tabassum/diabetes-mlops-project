@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Service_Marketing/Downloads/diabetes-mlops-project/mlruns/104582598188339466/e51ffbbf2209490a9fab2a63d33b614d/artifacts
+end_time: 1764422084132
+entry_point_name: ''
+experiment_id: '104582598188339466'
+lifecycle_stage: active
+run_id: e51ffbbf2209490a9fab2a63d33b614d
+run_name: nosy-roo-706
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764422080744
+status: 3
+tags: []
+user_id: Service_Marketing

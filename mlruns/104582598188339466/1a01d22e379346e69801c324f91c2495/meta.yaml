@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Service_Marketing/Downloads/diabetes-mlops-project/mlruns/104582598188339466/1a01d22e379346e69801c324f91c2495/artifacts
+end_time: 1764424537264
+entry_point_name: ''
+experiment_id: '104582598188339466'
+lifecycle_stage: active
+run_id: 1a01d22e379346e69801c324f91c2495
+run_name: victorious-asp-719
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764424536964
+status: 3
+tags: []
+user_id: Service_Marketing

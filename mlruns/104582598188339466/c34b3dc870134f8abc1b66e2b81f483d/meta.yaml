@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Service_Marketing/Downloads/diabetes-mlops-project/mlruns/104582598188339466/c34b3dc870134f8abc1b66e2b81f483d/artifacts
+end_time: 1764424787135
+entry_point_name: ''
+experiment_id: '104582598188339466'
+lifecycle_stage: active
+run_id: c34b3dc870134f8abc1b66e2b81f483d
+run_name: carefree-grub-775
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764424786859
+status: 3
+tags: []
+user_id: Service_Marketing

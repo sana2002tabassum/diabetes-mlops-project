@@ -1,0 +1,6 @@
+2025-11-29 18:43:49,015 - INFO - Preprocessing started.
+2025-11-29 18:43:49,015 - INFO - Reading input file: data/diabetes.csv
+2025-11-29 18:43:49,358 - INFO - Dropping duplicates...
+2025-11-29 18:43:49,506 - INFO - Filling missing values with column means...
+2025-11-29 18:43:49,540 - INFO - Saving processed file to: data/diabetes_processed.csv
+2025-11-29 18:43:49,593 - INFO - Preprocessing completed successfully.

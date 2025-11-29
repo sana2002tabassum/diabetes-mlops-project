@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2b21650fb8c749a089a205da8a398b09/artifacts
+end_time: 1764425605940
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2b21650fb8c749a089a205da8a398b09
+run_name: dashing-ape-507
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764425605727
+status: 3
+tags: []
+user_id: Service_Marketing

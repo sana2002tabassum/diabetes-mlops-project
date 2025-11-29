@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/836c7cdeb5ae432a94da386207d670bb/artifacts
+end_time: 1764423349549
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 836c7cdeb5ae432a94da386207d670bb
+run_name: whimsical-fish-518
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764423349318
+status: 3
+tags: []
+user_id: Service_Marketing

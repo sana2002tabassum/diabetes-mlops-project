@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/925188837f444c3f8882ec2db96cab2d/artifacts
+end_time: 1764393321075
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 925188837f444c3f8882ec2db96cab2d
+run_name: spiffy-dog-955
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764393320940
+status: 3
+tags: []
+user_id: Service_Marketing

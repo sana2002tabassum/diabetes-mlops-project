@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Service_Marketing/Downloads/diabetes-mlops-project/mlruns/104582598188339466/5b596a5c85a84790acce5ef5636ed873/artifacts
+end_time: 1764425446675
+entry_point_name: ''
+experiment_id: '104582598188339466'
+lifecycle_stage: active
+run_id: 5b596a5c85a84790acce5ef5636ed873
+run_name: treasured-crab-818
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764425446440
+status: 3
+tags: []
+user_id: Service_Marketing

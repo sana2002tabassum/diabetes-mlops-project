@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Service_Marketing/Downloads/diabetes-mlops-project/mlruns/104582598188339466/7c382ade8ead4602961e980cb0f4e4b6/artifacts
+end_time: 1764425601015
+entry_point_name: ''
+experiment_id: '104582598188339466'
+lifecycle_stage: active
+run_id: 7c382ade8ead4602961e980cb0f4e4b6
+run_name: blushing-hound-779
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764425600762
+status: 3
+tags: []
+user_id: Service_Marketing

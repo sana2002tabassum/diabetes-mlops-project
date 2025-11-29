@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Service_Marketing/Downloads/diabetes-mlops-project/mlruns/104582598188339466/2eebdf0e61944fc9a5d19d1c6800c049/artifacts
+end_time: 1764425255837
+entry_point_name: ''
+experiment_id: '104582598188339466'
+lifecycle_stage: active
+run_id: 2eebdf0e61944fc9a5d19d1c6800c049
+run_name: smiling-stork-571
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764425255658
+status: 3
+tags: []
+user_id: Service_Marketing
